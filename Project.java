@@ -5,6 +5,8 @@ public class Project {
 	private int year;
 	private String number, name;
 	public Employee projectLeader;
+	//List of activities added by Kári
+	private Activity[] toDolist;
 	
 	//constructor
 	public Project(int year, String number, String name){ //Dan
@@ -19,6 +21,11 @@ public class Project {
 	}
 	public void assignProjectLeader(Employee proj){
 		projectLeader = proj;
+	}
+	
+	public void addActivity()
+	{
+		//Function created by Kári
 	}
 
 }
