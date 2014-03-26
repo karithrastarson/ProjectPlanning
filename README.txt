@@ -1,1 +1,0 @@
-Okay nuna er eg buinn ad breyta slatta
